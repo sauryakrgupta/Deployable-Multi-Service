@@ -1,4 +1,4 @@
-# Deployable_Multi_Service
+# Flaskify: Modular Multi-Service Blog Application
 
 This project is a **Deployable Multi-Service Application** designed using Flask, which demonstrates a modular architecture with three distinct microservices: **User Service**, **Blog Service**, and **Comment Service**. 
 
