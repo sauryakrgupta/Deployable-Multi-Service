@@ -2,6 +2,8 @@
 
 This project is a **Deployable Multi-Service Application** designed using Flask, which demonstrates a modular architecture with three distinct microservices: **User Service**, **Blog Service**, and **Comment Service**. 
 
+Read all details of this project here: 
+
 1. The **User Service** handles user registration and login functionality using JWT-based authentication.  
 2. The **Blog Service** allows users to create, view, and manage blog posts.  
 3. The **Comment Service** facilitates adding and managing comments linked to specific blog posts.
